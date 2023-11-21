@@ -22,7 +22,7 @@ There are three main folders, namely, data, Lioy_python_codes, and scripts.
 - wt_bin_fpkm.txt
 - UV_bin_fpkm.txt
 - ebfC_bin_fpkm.txt
-5. Folder 'reconstruction_structure_files' containing PDB files for the reconstructed chromosome structures.
+5. Folder 'reconstructed_structure_files' containing PDB files for the reconstructed chromosome structures.
 6. Folder 'result_files' containing CID boundary gene files produced through the script 'CID_Boundary_GC_content_and gene.ipynb'.
 ## Lioy_python_codes folder
 This directory contains several python codes and functions used in the analysis from Lioy et al. (https://github.com/koszullab/E_coli_analysis/tree/master/python_codes). 
